@@ -8,14 +8,10 @@ Contents
 
 The projects in this portfolio are organized chronologically or by category, providing an easy way to navigate and explore different areas of my expertise. Each project includes the following details:
 
-Project Name: A brief, descriptive title.
-
-Overview: A summary of the project, its goals, and scope.
-
-Technologies/Tools Used: A list of the primary tools, languages, or frameworks employed.
-
-Key Challenges: Insights into the challenges faced during the project.
-
+Project Name: A brief, descriptive title.                            
+Overview: A summary of the project, its goals, and scope.                                                             
+Technologies/Tools Used: A list of the primary tools, languages, or frameworks employed.                                         
+Key Challenges: Insights into the challenges faced during the project.                                     
 Solution & Outcome: Explanation of how those challenges were addressed and the final result.
 
 How to Use
